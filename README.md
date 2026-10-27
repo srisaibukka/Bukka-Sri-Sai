@@ -10,10 +10,9 @@
 ## Deployment Link
 
 **Public Deployment URL:** To be added after deployment.
-
 ## GitHub Repository
 
-**Repository URL:** To be added after creating the GitHub repository.
+**Repository URL:** [Bukka-Sri-Sai](https://github.com/srisaibukka/Bukka-Sri-Sai)
 
 ## Objective
 
@@ -74,25 +73,24 @@ http://localhost:3000
 - **Status Code:** `200 OK`
 - **Response:** `Hello`
 - **Content-Type:** `text/plain`
-
 ## Project Structure
 
 ```text
-BDF lab 1/
-│
-├── node_modules/
+Bukka-Sri-Sai/
 ├── screenshots/
+│   ├── 404-not-found.png
+│   ├── about.png
+│   ├── endpoint-response.png
+│   ├── home.png
 │   ├── server-running.png
-│   └── endpoint-response.png
-│
+│   └── time.png
 ├── .gitignore
+├── README.md
 ├── package.json
 ├── package-lock.json
 ├── plainServer.js
-├── server.js
-└── README.md
+└── server.js
 ```
-
 ## Screenshots
 
 ### Home Endpoint
@@ -105,7 +103,7 @@ BDF lab 1/
 ![Time Endpoint](screenshots/time.png)
 
 ### 404 Not Found
-![404 Not Found](screenshots/404-not-found.png)
+![404 Not Found](screenshots/404-not found.png)
 
 ### Server Running
 
@@ -120,9 +118,8 @@ BDF lab 1/
 - The server runs on port `3000`.
 - The root endpoint `/` returns `Hello`.
 - The response content type is `text/plain`.
-- The `node_modules` folder should not be uploaded to GitHub.
+- The `node_modules` folder is excluded from GitHub using `.gitignore`.
 - The public deployment URL will be added after deployment.
-- The GitHub repository URL will be added after creating the repository.
 
 ## Conclusion
 
