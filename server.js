@@ -27,7 +27,10 @@ app.use((req, res) => {
     res.status(404).send('404 - Page Not Found');
 });
 
-// Start Server
-app.listen(3000, () => {
-    console.log('Express Server running on port 3000');
+
+ // Start Server
+const PORT = process.env.PORT || 3000;
+
+app.listen(PORT, '0.0.0.0', () => {
+    console.log(`Express Server running on port ${PORT}`);
 });
