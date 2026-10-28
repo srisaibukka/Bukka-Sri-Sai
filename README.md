@@ -91,8 +91,6 @@ Bukka-Sri-Sai/
 ├── plainServer.js
 └── server.js
 ```
-## Screenshots
-
 ### Home Endpoint
 ![Home Endpoint](screenshots/home.png)
 
@@ -103,16 +101,15 @@ Bukka-Sri-Sai/
 ![Time Endpoint](screenshots/time.png)
 
 ### 404 Not Found
-![404 Not Found](screenshots/404-not found.png)
+
+![404 Not Found](screenshots/404-not-found.png)
 
 ### Server Running
 
 ![Server Running](screenshots/server-running.png)
 
 ### API Endpoint Response
-
 ![API Endpoint Response](screenshots/endpoint-response.png)
-
 ## Notes
 
 - The server runs on port `3000`.
