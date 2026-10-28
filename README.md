@@ -9,7 +9,7 @@
 
 ## Deployment Link
 
-**Public Deployment URL:** To be added after deployment.
+**Public Deployment URL:** https://bukka-sri-sai-1.onrender.com?utm_source=chatgpt.com.
 ## GitHub Repository
 
 **Repository URL:** [Bukka-Sri-Sai](https://github.com/srisaibukka/Bukka-Sri-Sai)
